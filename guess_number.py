@@ -16,7 +16,7 @@ def print_tries():
     print('Tries ' + str(tries) + ' / ' + str(maxtries))
 
 while tries == 1:
-    print(num)
+    # print(num)
     raw_guess = input('Guess a nubmer between ' + str(minnum) + ' and ' + str(maxnum) + '\n')
 
     # Get into the settings to change the numberrange 
