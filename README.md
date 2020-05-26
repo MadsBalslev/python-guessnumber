@@ -1,4 +1,4 @@
-# python-guessnumber
+# Python Guess Number
 ## Small Guess the Number game
 
 ### Usage
